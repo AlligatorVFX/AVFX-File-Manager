@@ -1,10 +1,17 @@
+<div align="center">
+
 # AVFX File Manager v1.0.0 — Modern Portable Dual-Panel File Manager
 
-<img width="980" height="720" alt="00_hero" src="https://github.com/user-attachments/assets/84b5fd2e-dfb0-49c2-8706-1309f4f6deae" />
+<img width="980" alt="00_hero" src="https://github.com/user-attachments/assets/84b5fd2e-dfb0-49c2-8706-1309f4f6deae" />
 
-**AVFX File Manager** — это современный, молниеносный и полностью портативный двухпанельный файловый менеджер. Создан для тех, кто ценит скорость, удобство работы с клавиатуры в традициях Total Commander и чистый современный дизайн.
+<br>
 
-Не требует установки: просто распакуйте и запускайте на любом ПК с Windows или флешки!
+**AVFX File Manager** — это современный, молниеносный и полностью портативный двухпанельный файловый менеджер.<br>
+Создан для тех, кто ценит скорость, удобство работы с клавиатуры в традициях Total Commander и чистый современный дизайн.
+
+*Не требует установки: просто распакуйте и запускайте на любом ПК с Windows или флешки!*
+
+</div>
 
 ---
 
@@ -31,19 +38,35 @@
 
 ---
 
+<div align="center">
+
 ### 📸 Скриншоты
 
-<img width="980" height="720" alt="01_main_window" src="https://github.com/user-attachments/assets/e53a14f0-9db5-4688-9afe-91460e579b75" />
+<br>
+
+<img width="980" alt="01_main_window" src="https://github.com/user-attachments/assets/e53a14f0-9db5-4688-9afe-91460e579b75" />
+
 *Двухпанельный режим с дисками и быстрым доступом*
 
-<img width="980" height="720" alt="02_themes" src="https://github.com/user-attachments/assets/7a0173d6-1986-476a-9d97-df8602296b03" />
+<br><br>
+
+<img width="980" alt="02_themes" src="https://github.com/user-attachments/assets/7a0173d6-1986-476a-9d97-df8602296b03" />
+
 *Чистый современный интерфейс и подбор цветовых палитр*
 
-<img width="980" height="720" alt="03_quick_view" src="https://github.com/user-attachments/assets/6fc3693d-f0ea-4ab3-bfe4-48bb933bbeca" />
+<br><br>
+
+<img width="980" alt="03_quick_view" src="https://github.com/user-attachments/assets/6fc3693d-f0ea-4ab3-bfe4-48bb933bbeca" />
+
 *Встроенный Quick View для картинок, документов и медиа*
 
-<img width="980" height="720" alt="04_search_dialog" src="https://github.com/user-attachments/assets/57f03286-015b-4919-8bd7-35c030eb9cb8" />
+<br><br>
+
+<img width="980" alt="04_search_dialog" src="https://github.com/user-attachments/assets/57f03286-015b-4919-8bd7-35c030eb9cb8" />
+
 *Поиск нужных файлов и папок на дисках*
+
+</div>
 
 ---
 
@@ -53,4 +76,7 @@
 2. Распакуйте папку **`AVFXFileManager`** в любое удобное место (на рабочий стол, диск или флешку).
 3. Запустите **`AvfxFM.exe`**.
 
-*Приятного использования!*
+<div align="center">
+  <br>
+  <em>Приятного использования!</em>
+</div>
