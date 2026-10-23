@@ -1,6 +1,6 @@
 <div align="center">
 
-# AVFX File Manager v1.0.0 - Modern Portable Dual-Panel File Manager
+# AVFX File Manager - Modern Portable Dual-Panel File Manager
 
 <img width="980" alt="00_hero" src="https://github.com/user-attachments/assets/84b5fd2e-dfb0-49c2-8706-1309f4f6deae" />
 
