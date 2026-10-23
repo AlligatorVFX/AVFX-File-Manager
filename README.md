@@ -1,6 +1,7 @@
 # AVFX File Manager v1.0.0 — Modern Portable Dual-Panel File Manager
 
-![AVFX File Manager Hero](00_hero.png)
+![AVFX File Manager Hero]<img width="980" height="720" alt="00_hero" src="https://github.com/user-attachments/assets/0ea5fe87-3cbe-4d5c-8999-9f6c0c009c00" />
+
 
 **AVFX File Manager** — это современный, молниеносный и полностью портативный двухпанельный файловый менеджер. Создан для тех, кто ценит скорость, удобство работы с клавиатуры в традициях Total Commander и чистый современный дизайн.
 
