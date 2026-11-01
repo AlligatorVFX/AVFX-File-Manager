@@ -2,7 +2,7 @@
 
 # AVFX File Manager - Modern Portable Dual-Pane File Manager
 
-<img width="980" alt="00_hero" src="https://github.com" />
+<img width="1432" height="1052" alt="Snipaste_2026-11-02_03-23-17" src="https://github.com/user-attachments/assets/6cc840fb-0eba-42ec-a609-a1a3745685bf" />
 
 <br>
 
@@ -44,25 +44,25 @@ Built for those who value speed, keyboard-driven workflow in the tradition of To
 
 <br>
 
-<img width="980" alt="01_main_window" src="https://github.com" />
+<img width="1394" height="1033" alt="image" src="https://github.com/user-attachments/assets/2e9066d3-b3ed-4e19-be1f-efe31dc523ef" />
 
 *Dual-pane mode with drives and quick access*
 
 <br><br>
 
-<img width="980" alt="02_themes" src="https://github.com" />
+<img width="1361" height="1012" alt="image" src="https://github.com/user-attachments/assets/956cc328-0ade-4b3a-b532-1e863615382d" />
 
 *Clean modern interface and color palette selection*
 
 <br><br>
 
-<img width="980" alt="03_quick_view" src="https://github.com" />
+<img width="1365" height="1032" alt="image" src="https://github.com/user-attachments/assets/0eb43f56-1578-49b1-b1a5-8be1ee56733f" />
 
 *Built-in Quick View for images, documents, and media*
 
 <br><br>
 
-<img width="980" alt="04_search_dialog" src="https://github.com" />
+<img width="1387" height="1043" alt="image" src="https://github.com/user-attachments/assets/f0d652ee-6569-48e2-a2b6-6e09ef62ec7c" />
 
 *Searching for files and folders on drives*
 
