@@ -1,82 +1,82 @@
 <div align="center">
 
-# AVFX File Manager - Modern Portable Dual-Panel File Manager
+# AVFX File Manager - Modern Portable Dual-Pane File Manager
 
-<img width="980" alt="00_hero" src="https://github.com/user-attachments/assets/84b5fd2e-dfb0-49c2-8706-1309f4f6deae" />
+<img width="980" alt="00_hero" src="https://github.com" />
 
 <br>
 
-**AVFX File Manager** — это современный, молниеносный и полностью портативный двухпанельный файловый менеджер.<br>
-Создан для тех, кто ценит скорость, удобство работы с клавиатуры в традициях Total Commander и чистый современный дизайн.
+**AVFX File Manager** is a modern, blazing-fast, and fully portable dual-pane file manager.<br>
+Built for those who value speed, keyboard-driven workflow in the tradition of Total Commander, and a clean, modern design.
 
-*Не требует установки: просто распакуйте и запускайте на любом ПК с Windows или флешки!*
+*No installation required: just extract and run on any Windows PC or USB flash drive!*
 
 </div>
 
 ---
 
-### ✨ Главные возможности
+### ✨ Key Features
 
-- ⚡ **Максимальная скорость и отзывчивость**: Мгновенный запуск без тяжёлых зависимостей и плавная работа интерфейса с аппаратным ускорением.
-- 💼 **100% Portable**: Программа работает без установки и не оставляет следов в реестре — все настройки хранятся рядом с программой в одном файле.
-- 🗂️ **Удобные двухпанельные операции**:
-  - Быстрое копирование (`F5`) и перемещение (`F6`) между панелями.
-  - Подсчет точного размера папок на лету (по клавише `Space`).
-  - Быстрый выбор дисков прямо в заголовке панели в один клик.
-  - Удобная история переходов (Вперед / Назад).
-- 📑 **Вкладки папок (Folder Tabs)**: Открывайте сколько угодно рабочих папок в каждой панели в отдельных вкладках, закрепляйте и легко переключайтесь между ними, не теряя текущий контекст.
-- ⭐ **Закладки и избранное (Bookmarks)**: Сохраняйте часто используемые папки в закладки для мгновенного перехода в один клик или по горячей клавише `Ctrl+D`.
-- 🚀 **Настраиваемая панель быстрого доступа и запуска (Top Bar)**:
-  - Закрепляйте нужные **папки** для мгновенного перехода.
-  - Добавляйте часто открываемые **файлы и документы**.
-  - Создавайте кнопки запуска любимых **программ и системных команд** с собственными параметрами запуска.
-  - Поддержка кастомных иконок, подсказок и перетаскивания кнопок (Drag & Drop) для удобной сортировки.
-- 🎨 **Гибкая кастомизация интерфейса и цветовые темы**: Встроенные темы оформления с возможностью тонкой настройки цветов.
-- 👁️ **Быстрый просмотр (Quick View)**: Мгновенное превью текста, изображений и медиафайлов прямо во второй панели.
-- 🔍 **Умный поиск файлов**: Быстрый и удобный поиск по именам с фильтрацией прямо в результатах.
-- ⌨️ **Классические горячие клавиши**: Все привычные комбинации (`Tab`, `F3`–`F8`, `Alt+Left/Right`, `Backspace`) работают так, как вы привыкли с возможностью кастомизации.
+- ⚡ **Maximum Speed & Responsiveness**: Instant launch with no heavy dependencies and a smooth, hardware-accelerated user interface.
+- 💼 **100% Portable**: Runs without installation and leaves no traces in the registry — all settings are stored right next to the executable in a single file.
+- 🗂️ **Convenient Dual-Pane Operations**:
+  - Quick copying (`F5`) and moving (`F6`) between panes.
+  - On-the-fly folder size calculation (by pressing `Space`).
+  - Fast drive selection right in the pane header with a single click.
+  - User-friendly navigation history (Forward / Backward).
+- 📑 **Folder Tabs**: Open as many working directories as you need in separate tabs within each pane; pin and switch between them easily without losing your current context.
+- ⭐ **Bookmarks & Favorites**: Save frequently used folders to your bookmarks for instant one-click or hotkey (`Ctrl+D`) navigation.
+- 🚀 **Customizable Quick Access & Launch Bar (Top Bar)**:
+  - Pin required **folders** for instant navigation.
+  - Add frequently opened **files and documents**.
+  - Create launch buttons for your favorite **programs and system commands** with custom launch arguments.
+  - Support for custom icons, tooltips, and Drag & Drop button reordering for effortless sorting.
+- 🎨 **Flexible UI Customization & Color Themes**: Built-in color themes with options for fine-tuning individual colors.
+- 👁️ **Quick View**: Instant preview of text, images, and media files directly within the adjacent pane.
+- 🔍 **Smart File Search**: Fast and efficient filename search with live filtering directly inside the results list.
+- ⌨️ **Classic Hotkeys**: All familiar combinations (`Tab`, `F3`–`F8`, `Alt+Left/Right`, `Backspace`) work exactly as you expect, with full support for customization.
 
 ---
 
 <div align="center">
 
-### 📸 Скриншоты
+### 📸 Screenshots
 
 <br>
 
-<img width="980" alt="01_main_window" src="https://github.com/user-attachments/assets/e53a14f0-9db5-4688-9afe-91460e579b75" />
+<img width="980" alt="01_main_window" src="https://github.com" />
 
-*Двухпанельный режим с дисками и быстрым доступом*
-
-<br><br>
-
-<img width="980" alt="02_themes" src="https://github.com/user-attachments/assets/7a0173d6-1986-476a-9d97-df8602296b03" />
-
-*Чистый современный интерфейс и подбор цветовых палитр*
+*Dual-pane mode with drives and quick access*
 
 <br><br>
 
-<img width="980" alt="03_quick_view" src="https://github.com/user-attachments/assets/6fc3693d-f0ea-4ab3-bfe4-48bb933bbeca" />
+<img width="980" alt="02_themes" src="https://github.com" />
 
-*Встроенный Quick View для картинок, документов и медиа*
+*Clean modern interface and color palette selection*
 
 <br><br>
 
-<img width="980" alt="04_search_dialog" src="https://github.com/user-attachments/assets/57f03286-015b-4919-8bd7-35c030eb9cb8" />
+<img width="980" alt="03_quick_view" src="https://github.com" />
 
-*Поиск нужных файлов и папок на дисках*
+*Built-in Quick View for images, documents, and media*
+
+<br><br>
+
+<img width="980" alt="04_search_dialog" src="https://github.com" />
+
+*Searching for files and folders on drives*
 
 </div>
 
 ---
 
-### 📦 Быстрый старт (Windows)
+### 📦 Quick Start (Windows)
 
-1. Скачайте архив **`AVFXFileManager.zip`** ниже в блоке **Assets**.
-2. Распакуйте папку **`AVFXFileManager`** в любое удобное место (на рабочий стол, диск или флешку).
-3. Запустите **`AvfxFM.exe`**.
+1. Download the **`AVFXFileManager.zip`** archive from the **Assets** section below.
+2. Extract the **`AVFXFileManager`** folder to any convenient location (Desktop, local drive, or USB flash drive).
+3. Run **`AvfxFM.exe`**.
 
 <div align="center">
   <br>
-  <em>Приятного использования!</em>
+  <em>Enjoy using it!</em>
 </div>
